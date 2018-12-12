@@ -1,0 +1,11 @@
+{
+    "timezone": "+0:00",
+    "defaultstopinterval": "00:00:10",
+    "vehicles": [
+        {
+        "name": "StageCoach",
+        "route": "StageCoach",
+        "stops": [{"name": "London", "departure": {"time": "05:00", "day": 1}}, {"name": "Huntingdon", "arrival": {"time": "18:11:35", "day": 1}}, {"name": "Stamford","arrival": {"time": "10:12:10", "day": 2}}, {"name": "York","arrival": {"time": "14:13", "day": 4}}]
+    }
+    ]
+}
