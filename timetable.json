@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "London",
+    "Departure": "05:00:00",
+    "Day": 1
+  },
+  {
+    "Name": "Huntingdon",
+    "Departure": "18:11:00",
+    "Day": 1
+  },
+  {
+    "Name": "Stamford",
+    "Departure": "10:12:00",
+    "Day": 2
+  },
+  {
+    "Name": "York",
+    "Departure": "14:13:00",
+    "Day": 4
+  }
+]
