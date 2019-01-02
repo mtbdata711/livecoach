@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Mr Bennet",
+    "location": "The White Horse Fleet Street - Mr Bennet",
+    "route": "LondonToWindsor#1",
+    "info": "LondonToWindsor",
+    "stoptime": "10:15:00",
+    "arrivalname": "Windsor Berkshire",
+    "arrivaltime": "12:00:00"
+  },
+  {
+    "name": "Mr Saunders",
+    "location": "Bell-Savage Ludgate-hill - Mr Saunders",
+    "route": "LondonToWindsor#2",
+    "info": "LondonToWindsor",
+    "stoptime": "10:30:00",
+    "arrivalname": "Windsor Berkshire",
+    "arrivaltime": "12:15:00"
+  },
+  {
+    "name": "Robert Burridge",
+    "location": "The Eagle and Child Strand",
+    "route": "LondonToWindsor#3",
+    "info": "LondonToWindsor",
+    "stoptime": "10:45:00",
+    "arrivalname": "Windsor Berkshire",
+    "arrivaltime": "12:30:00"
+  },
+  {
+    "name": "Samuel Bennet",
+    "location": "Kings-Head Charing-Cross",
+    "route": "LondonToWindsor#4",
+    "info": "LondonToWindsor",
+    "stoptime": "11:00:00",
+    "arrivalname": "Windsor Berkshire",
+    "arrivaltime": "12:45:00"
+  },
+  {
+    "name": "Mr Hattox",
+    "location": "Chequer-Inn Charing-Cross",
+    "route": "LondonToWindsor#5",
+    "info": "LondonToWindsor",
+    "stoptime": "11:15:00",
+    "arrivalname": "Windsor Berkshire",
+    "arrivaltime": "13:00:00"
+  },
+  {
+    "name": "Philip Best",
+    "location": "The Unicorn Haymarket",
+    "route": "LondonToWindsor#6",
+    "info": "LondonToWindsor",
+    "stoptime": "11:30:00",
+    "arrivalname": "Windsor Berkshire",
+    "arrivaltime": "13:15:00"
+  },
+  {
+    "name": "Elias Gliss",
+    "location": "The Crown Haymarket",
+    "route": "LondonToWindsor#7",
+    "info": "LondonToWindsor",
+    "stoptime": "11:45:00",
+    "arrivalname": "Windsor Berkshire",
+    "arrivaltime": "13:30:00"
+  },
+  {
+    "name": "Elias Gliss#2",
+    "location": "The Black-horse Mews-Gate",
+    "route": "LondonToWindsor#8",
+    "info": "LondonToWindsor",
+    "stoptime": "12:00:00",
+    "arrivalname": "Windsor Berkshire",
+    "arrivaltime": "13:45:00"
+  },
+  {
+    "name": "Mr Burt",
+    "location": "The George Kings Street Westminster",
+    "route": "LondonToWindsor#9",
+    "info": "LondonToWindsor",
+    "stoptime": "12:15:00",
+    "arrivalname": "Windsor Berkshire",
+    "arrivaltime": "14:00:00"
+  }
+]
