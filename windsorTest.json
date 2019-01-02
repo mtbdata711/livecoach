@@ -1,7 +1,7 @@
 [
   {
     "name": "Mr Bennet",
-    "location": "The White Horse Fleet Street - Mr Bennet",
+    "location": "The White Horse Fleet Street",
     "route": "LondonToWindsor#1",
     "info": "LondonToWindsor",
     "stoptime": "10:15:00",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Mr Saunders",
-    "location": "Bell-Savage Ludgate-hill - Mr Saunders",
+    "location": "Bell-Savage Ludgate-hill",
     "route": "LondonToWindsor#2",
     "info": "LondonToWindsor",
     "stoptime": "10:30:00",
